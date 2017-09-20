@@ -1,4 +1,6 @@
+//test
 document.getElementById("main").innerHTML = "How much time do you spent on these sites:";
+
 /*
   Fields
 */
